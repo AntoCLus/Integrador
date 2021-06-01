@@ -12,15 +12,10 @@ public class Seccional {
     public void setSeccional(String seccional) {
         this.seccional = seccional;
     }
-    public void addSeccional(String seccional){
-        addSeccional("Rivadavia");
-        addSeccional("Moreno");
-        addSeccional("Quilmes");
-        addSeccional("Flores");
 
 
-
-
+    public void addSeccional(String entre_rios) {
     }
-
 }
+
+

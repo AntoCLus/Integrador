@@ -88,6 +88,13 @@ public class Main {
             System.out.println("La fecha de alta es " + fechaAlta);
             System.out.println("");
         }
+        public static void addSeccional(String seccional){
+        Collection <String> addSeccional =
+            new TreeSet<String>(Collator.getInstance());
+        addSeccional("flores");
+        addSeccional("moreno");
+
+        }
     }
 
 
